@@ -474,7 +474,6 @@ var cnames_active = {
   "delegacias-fortaleza": "juliosampaio.github.io/delegacias-fortaleza", // noCF? (don´t add this in a new PR)
   "delet": "ds-development.github.io/delet",
   "democracy": "invisible-college.github.io/democracy",
-  "demoji": "chroventer.github.io/demoji",
   "denisvieira": "denisvieira05.github.io",
   "deox": "deox.netlify.com",
   "deputy": "ry4nolson.github.io/Deputy", // noCF? (don´t add this in a new PR)
@@ -597,6 +596,7 @@ var cnames_active = {
   "emoji": "egoist.github.io/emoji",
   "emoji-button": "joeattardi.github.io/emoji-button",
   "emojipanel": "danbovey.github.io/EmojiPanel",
+  "emojifier": "badlydrawnletters.github.io/emojifier-docs/"
   "empathy": "the94air.github.io/empathy-docs",
   "emre": "emrekara37.github.io",
   "emulisp": "grahack.github.io/EmuLisp", // noCF? (don´t add this in a new PR)
